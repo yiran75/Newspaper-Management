@@ -1,1 +1,1 @@
-# Newspaper-Management
+# Newspaper-Management![Uploading erdiagram.jpg…]()
